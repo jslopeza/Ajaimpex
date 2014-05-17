@@ -97,7 +97,11 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-
+.banner {
+    background-image: url(../img/Metropolitan_Banner.jpg);
+    background-repeat: no-repeat;
+    height: 236px;
+}
 
 
 
